@@ -34,4 +34,4 @@ services:
     restart: on-failure
     ports:
       - "80:80"
-      - "8081:80"
+      - "8084:80"
